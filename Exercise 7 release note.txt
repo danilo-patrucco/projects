@@ -1,0 +1,2 @@
+- Ver. 1.0
+require input of two numerical value for Miles and gallons to calculate the MPG value (float)

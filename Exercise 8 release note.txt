@@ -1,0 +1,3 @@
+- Ver. 1.0
+ask the user to enter the value of each item in a purchased in a restaurant, calculate the total value of the dinner, taxes on the total and tip on the total cost of the dinner plus taxes.
+print all the values out, total without taxes and tip, taxes, tip and total with tip. In addition print also the round down value of the total (integer).

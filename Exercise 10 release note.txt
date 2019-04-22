@@ -1,0 +1,2 @@
+- Ver. 1.0
+Input the amount of cookies i want to bake and it calculate the amount of sugar/butter/flour you need.
